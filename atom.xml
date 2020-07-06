@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.lmilu.com/"/>
   <updated>2020-07-06T14:54:47.923Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.lmilu.com/</id>
   
   <author>
     <name>LM</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/06/hello-world/"/>
-    <id>http://yoursite.com/2020/07/06/hello-world/</id>
+    <link href="http://www.lmilu.com/2020/07/06/hello-world/"/>
+    <id>http://www.lmilu.com/2020/07/06/hello-world/</id>
     <published>2020-07-06T14:54:47.923Z</published>
     <updated>2020-07-06T14:54:47.923Z</updated>
     
