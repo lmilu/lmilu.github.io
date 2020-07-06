@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lmilu.com/friends/index.html</loc>
+    
+    <lastmod>2020-07-06T18:20:00.868Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lmilu.com/about/index.html</loc>
+    
+    <lastmod>2020-07-06T18:19:34.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lmilu.com/tags/index.html</loc>
+    
+    <lastmod>2020-07-06T18:18:53.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://lmilu.com/categories/index.html</loc>
+    
+    <lastmod>2020-07-06T18:17:59.669Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://lmilu.com/2020/07/06/hello-world/</loc>
     
     <lastmod>2020-07-06T14:54:47.923Z</lastmod>
